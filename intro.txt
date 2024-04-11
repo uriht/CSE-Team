@@ -1,1 +1,3 @@
- I'm Revan, currently pursuing my Bachelor's in Computer Science and Engineering. My passion lies in the dynamic realms of cloud computing and DevOps. I find immense joy in exploring how these technologies revolutionize the way we design, deploy, and manage software systems.
+ I'm Revan, currently pursuing my Bachelor's in Computer Science and Engineering. 
+ My passion lies in the dynamic realms of cloud computing and DevOps. 
+ I find immense joy in exploring how these technologies revolutionize the way we design, deploy, and manage software systems.
